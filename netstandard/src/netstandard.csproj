@@ -44,6 +44,9 @@
       <Assembly>System.Runtime</Assembly>
     </SeedTypePreference>
   </ItemGroup>
+  <ItemGroup Condition="'$(TargetGroup)' == 'netcoreapp1.0'">
+    <ReferencePath Include="\\fxcore\Platforms\ApiCatalog\.NET Core App 1.0 (ref)\*.dll" />
+  </ItemGroup>
   <ItemGroup Condition="'$(TargetGroup)' == 'netcoreapp1.1'">
     <ExcludePath Include="$(NETCoreAppPath)runtime\netcoreapp1.1.win7-x64\System.Security.Permissions.dll " />
     <!-- TODO: Need to restore netcoreapp1.1 platform from packages -->
