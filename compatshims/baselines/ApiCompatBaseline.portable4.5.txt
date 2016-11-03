@@ -2,23 +2,11 @@ DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'Microsoft.C
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'Microsoft.VisualBasic'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.ComponentModel.Annotations'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.ComponentModel.DataAnnotations'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.ComponentModel'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.ComponentModel.EventBasedAsync'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Diagnostics.Contracts'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Dynamic.Runtime'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Linq.Parallel'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Linq.Queryable'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Net'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Net.NetworkInformation'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Net.Requests'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Reflection.Context'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Reflection.Emit.ILGeneration'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Reflection.Emit.Lightweight'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Runtime.InteropServices.WindowsRuntime'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Runtime.Serialization.Json'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Runtime.Serialization.Primitives'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Runtime.Serialization.Xml'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Security.Principal'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.ServiceModel'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.ServiceModel.Duplex'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.ServiceModel.Http'.
@@ -26,10 +14,8 @@ DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Serv
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.ServiceModel.Primitives'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.ServiceModel.Security'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.ServiceModel.Web'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Threading.Tasks.Parallel'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Windows'.
 DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Xml.Serialization'.
-DEFAULT_APPNAME Error: 0 : Failed to find or load matching assembly 'System.Xml.XmlSerializer'.
 Compat issues between implementation set D:\git\standard\bin/\ref\netstandard\2.0.0.0\,D:\git\standard\bin/CompatShims/facades and contract set C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETPortable\v4.5:
 TypesMustExist : Type 'Microsoft.CSharp.RuntimeBinder.Binder' does not exist in the implementation but it does exist in the contract.
 TypesMustExist : Type 'Microsoft.CSharp.RuntimeBinder.CSharpArgumentInfo' does not exist in the implementation but it does exist in the contract.

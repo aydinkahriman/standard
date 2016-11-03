@@ -10,7 +10,6 @@ System.ComponentModel.Primitives
 System.ComponentModel.TypeConverter
 System.Console
 System.Data.Common
-System.Data.SqlClient
 System.Diagnostics.Contracts
 System.Diagnostics.Debug
 System.Diagnostics.FileVersionInfo
@@ -76,7 +75,6 @@ System.Security.Cryptography.Encoding
 System.Security.Cryptography.Primitives
 System.Security.Cryptography.X509Certificates
 System.Security.Principal
-System.Security.Principal.Windows
 System.Security.SecureString
 System.Text.Encoding
 System.Text.Encoding.Extensions
