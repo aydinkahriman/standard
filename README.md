@@ -1,5 +1,5 @@
 # .NET Standard
-
+aydin
 This repository contains the principles and definition of the .NET Standard.
 
 .NET Standard solves the code sharing problem for .NET developers across all
